@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-**Niakris1986/Niakris1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I love programming
 - 🌱 I’m learning new languages
 - 👯 I like rpg games
