@@ -5,3 +5,4 @@
 - 👯 I like rpg games
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+like+python)](https://git.io/typing-svg)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Niakris86)](https://leetcode.com/Niakris86)
