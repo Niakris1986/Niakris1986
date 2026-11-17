@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&random=false&width=435&lines=my+skills:)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,py,fastapi,django,js,ts,react,redux,nodejs,express,electron,bash,docker,bitbucket,github,git,jquery,linux,debian,ubuntu,mongodb,rabbitmq,redis,postman,md,vim,vscode,pytorch,opencv,sklearn,flask,selenium,pycharm,powershell,windows&perline=15&theme=dark)](https://skillicons.dev)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&random=false&width=435&lines=my+coding+stats:)](https://git.io/typing-svg)
 
