@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I love programming
-- 🌱 I’m learning new languages
-- 👯 I like rpg games
+- 💻 I'm currently working on **Backend Development, REST APIs, and Python automation**.
+- 📊 I'm passionate about **Data Analytics and Data Processing**.
+- 🌱 I'm currently learning **Backend Architecture and Data Engineering**.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&random=false&width=435&lines=my+skills:)](https://git.io/typing-svg)
 
