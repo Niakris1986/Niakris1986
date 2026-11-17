@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+like+python)](https://git.io/typing-svg)
 
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,vscode)](https://skillicons.dev)
+
 ### 🏆 My Coding Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Nia1986)](https://leetcode.com/Nia1986)
